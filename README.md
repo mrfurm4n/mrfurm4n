@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Softwate Engineer
+I'm a Senior Fullstack Software (Web) Engineer
 
 **My routine** 
 - 🥷🏻 Building client applications architecture and design patterns (Vue, React, ReactNative);
