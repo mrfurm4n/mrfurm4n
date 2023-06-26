@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend Web Developer
+I'm a Senior Softwate Engineer
 
 **My routine** 
 - 🥷🏻 Building client applications architecture and design patterns (Vue, React, ReactNative);
