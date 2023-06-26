@@ -3,7 +3,7 @@
 I'm a Senior Fullstack Software (Web) Engineer
 
 **My routine** 
-- 🥷🏻 Building client applications architecture and design patterns (Vue, React, ReactNative);
+- 🥷🏻 Building web-applications architecture and design patterns;
 - 🦠 REST API implementation;
 - 👭🧑‍🤝‍🧑👬👫 Cooperation with teammates.
 
